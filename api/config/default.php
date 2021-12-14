@@ -621,5 +621,6 @@ return [
 	'githubAccessToken' => '',
 	'checkForPluginUpdate' => true,
 	'autoUpdateCronEnabled' => false,
-	'autoUpdateCronSchedule' => '@weekly'
+	'autoUpdateCronSchedule' => '@weekly',
+    'bookmarksTargetBlank' => false,
 ];
